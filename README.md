@@ -1,4 +1,4 @@
-# Language learning app in Python (Django)
+# Language learning app in Python (FastAPI)
 
 ## Entity-relationship diagram
 
